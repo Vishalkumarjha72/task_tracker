@@ -2,6 +2,9 @@
 
 This is a simple task tracker application built with React. It allows users to add, delete, and mark tasks as completed. The application includes features like drag-and-drop functionality, local storage for persistence, and task filtering.
 
+## Running on delployed server
+[task tracker Application link](https://task-tracker-nine-beige.vercel.app/)
+
 ## Running the Application Locally
 
 ### Prerequisites
@@ -20,6 +23,3 @@ Clone the repository to your local machine:
     Install dependencies: npm install
     Start the development server:npm start
 
-## Running on delployed server
-
-[task tracker Application link](https://task-tracker-nine-beige.vercel.app/)
